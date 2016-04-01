@@ -1,6 +1,6 @@
 ##BandTileHueController
 
-[Imgur](http://i.imgur.com/EHlKZxy.gifv)
+![video](http://i.giphy.com/7Bny0QRh4l15e.gif)
 
 
 A very simple example based on the Microsoft Band SDK tiles example application that updates a generic CLIP sensor as described [HERE](http://www.developers.meethue.com/documentation/how-use-ip-sensors). So hastily made that the app retains its original Activity names etc.
