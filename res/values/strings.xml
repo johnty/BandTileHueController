@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Band Tile Event HUE App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="steps">Steps to use this app:\n
+        0. Make sure your HUE stuff is set (and IP/API hardcoded in this app\'s main activity)\n
+        1. Pair your band with the phone\n
+        2. Make sure Microsoft Health is installed\n
+        3. Press the Start button\n
+        4. Press the Stop button to end the demo and remove the tile.\n
+        5. Make sure you set up the Hue CLIP sensor and rules\n
+        6. Nag or help me make this app run in background instead of popping up all the time!
+    </string>
+    <string name="start">Start</string>
+    <string name="intent_key">new intent</string>
+    <string name="intent_value">TileEventReceiver</string>
+    <string name="stop">Stop</string>
+</resources>
